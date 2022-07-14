@@ -1,4 +1,4 @@
-# Programmable-Frequency-Divider-with-Binary-and-BCD-inputs(incomplete)
+# Programmable-Frequency-Divider-with-Binary-and-BCD-inputs(compilation incomplete)
 This repository contains the design and simulation of a programmable frequency divider (50 % duty cycle)  using 
 - Asynchronous decade down counter and 
 - Asynchronous binary down counter 
