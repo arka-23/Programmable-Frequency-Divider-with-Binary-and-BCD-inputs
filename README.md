@@ -60,6 +60,8 @@ Output for BCD inputs:
 
 https://drive.google.com/file/d/16buGldU-W6CmDs35bwuphc29KhYQ9aqB/view?usp=sharing
 
+NOTE - Check the blinking of the LEDs, the fast one represents the signal with input frequency, while the slower one represents the frequency divided output signal.
+
 # Acknowledgement
 1. Mr. Sayantan Mukherjee, ER(Accys), HAL, Barrackpore Division
 
