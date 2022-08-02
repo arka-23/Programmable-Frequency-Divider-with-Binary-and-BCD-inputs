@@ -52,7 +52,7 @@ Output for BCD inputs:
 
 Output for binary inputs:
 
-https://drive.google.com/file/d/16fp0XNWhEMaxHyaU-LDMxxp2GauHYLqu/view?usp=sharing
+https://drive.google.com/file/d/16jimVVlwYk-NgNr5mMRVnCYDi5Usp38o/view?usp=sharing
 
 https://drive.google.com/file/d/16gaNhwVHKUTcj0kwB3z5ycAhO7IN5QE4/view?usp=sharing
 
