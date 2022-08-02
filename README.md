@@ -8,10 +8,10 @@ The above design which gives a 50% duty cycle when used as frequency divider cir
 HDL, and the counter circuit simulated on a Nexus 4 - Arctix 7 FPGA board to verify results.
 
 # Table of Contents
-   * [Abstract](#abstract)
- 
+ - [Abstract](#abstract) 
  - [Multisim Implementation](#multisim-implementation)
  - [Verilog Implementation](#verilog-implementation)
+ - [FPGA Implementation](#fpga-implementation)
  - [Acknowledgement](#acknowledgement)
  - [References](#references)
 
@@ -48,6 +48,11 @@ Output for BCD inputs:
 
 ![image](https://user-images.githubusercontent.com/70422874/182293112-eac72819-2fb7-4cc9-9b03-e1341a3ca54c.png)
 
+# FPGA Implementation
+
+Output for binary inputs:
+
+Output for BCD inputs:
 
 # Acknowledgement
 1. Mr. Sayantan Mukherjee, ER(Accys), HAL, Barrackpore Division
