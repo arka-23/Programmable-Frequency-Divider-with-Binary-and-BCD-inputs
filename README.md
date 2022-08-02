@@ -58,6 +58,8 @@ https://drive.google.com/file/d/16gaNhwVHKUTcj0kwB3z5ycAhO7IN5QE4/view?usp=shari
 
 Output for BCD inputs:
 
+https://drive.google.com/file/d/16buGldU-W6CmDs35bwuphc29KhYQ9aqB/view?usp=sharing
+
 # Acknowledgement
 1. Mr. Sayantan Mukherjee, ER(Accys), HAL, Barrackpore Division
 
