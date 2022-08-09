@@ -1,11 +1,5 @@
 # Design for a Programmable Frequency Divider (50 % duty cycle) with Binary and BCD inputs (with FPGA implementation)
-This repository contains the design and simulation of a programmable frequency divider (50 % duty cycle)  using 
-- Asynchronous decade down counter and 
-- Asynchronous binary down counter 
-
-by cascading modified MC 4316 and MC 4318 (4 bit) IC circuits designed as hierarchical blocks in Multisim, which is fully functional with proper outputs.
-The above design which gives a 50% duty cycle when used as frequency divider circuit, has been coded using Verilog
-HDL, and the counter circuit simulated on a Nexus 4 - Arctix 7 FPGA board to verify results.
+This repository contains the design and simulation of a Programmable Frequency Divider circuit with 50 % duty cycle. [Separate circuits for Binary and BCD inputs] 
 
 # Table of Contents
  - [Abstract](#abstract) 
@@ -18,6 +12,13 @@ HDL, and the counter circuit simulated on a Nexus 4 - Arctix 7 FPGA board to ver
 
 ## Abstract
 
+The design and simulation of a programmable frequency divider (50 % duty cycle) is provided  using 
+- Asynchronous decade down counter and 
+- Asynchronous binary down counter 
+
+by cascading modified MC 4316_new and MC 4318_new (4 bit) IC circuits designed as hierarchical blocks in Multisim, which is fully functional with proper outputs.
+The above design which gives a 50% duty cycle when used as frequency divider circuit, has been coded using Verilog
+HDL, and the circuit implemented on a Nexus 4 - Arctix 7 FPGA board to verify results.
 
 
 # Multisim Implementation
