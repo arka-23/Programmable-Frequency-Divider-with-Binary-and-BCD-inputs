@@ -23,15 +23,15 @@ HDL, and the circuit implemented on a Nexus 4 - Arctix 7 FPGA board to verify re
 
 # Multisim Implementation
 
-Multisim Circuit
+Multisim Circuit (<50 % duty cycle)
 
 Binary inputs:
 
-![image](https://user-images.githubusercontent.com/70422874/182291785-a9d9f56c-1091-48b5-9086-ae162d40021e.png)
+![image](https://user-images.githubusercontent.com/70422874/183562775-82614197-c803-4865-88e1-6a31e57628dd.png)
 
 BCD inputs:
 
-![image](https://user-images.githubusercontent.com/70422874/182291944-fc0e3a9e-54ac-4679-b202-8aed95b10387.png)
+![image](https://user-images.githubusercontent.com/70422874/183562198-0872bb1f-cd91-4035-91ad-395e9ffbd926.png)
 
 
 Note: 
