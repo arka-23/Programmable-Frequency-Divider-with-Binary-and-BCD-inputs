@@ -16,10 +16,11 @@ The design and simulation of a programmable frequency divider (50 % duty cycle) 
 - Asynchronous decade down counter and 
 - Asynchronous binary down counter 
 
-by cascading modified MC 4316_new and MC 4318_new (4 bit) IC circuits designed as hierarchical blocks in Multisim, which is fully functional with proper outputs.
+by cascading modified MC 4316_new and MC 4318_new (4 bit) IC circuits designed as hierarchical blocks in Multisim, to get a 8 bit design.
 The above design which gives a 50% duty cycle when used as frequency divider circuit, has been coded using Verilog
 HDL, and the circuit implemented on a Nexus 4 - Arctix 7 FPGA board to verify results.
 
+The cascadable structure of the design enables it to be easily modified to get higher order frequency divisions.
 
 # Multisim Implementation
 
