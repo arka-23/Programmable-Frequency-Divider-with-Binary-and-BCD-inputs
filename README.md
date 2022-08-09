@@ -49,7 +49,7 @@ Schematic for binary inputs:
 
 ![WhatsApp Image 2022-08-09 at 11 15 06 AM](https://user-images.githubusercontent.com/70422874/183574449-d4536a6f-2e81-449d-88f8-60b3b8a27675.jpeg)
 
-- MC 4316_new design 
+- MC 4318_new design 
 
 
 ![WhatsApp Image 2022-08-09 at 11 15 18 AM](https://user-images.githubusercontent.com/70422874/183574604-49aa13e0-4a2c-44de-9c53-06d52000238c.jpeg)
