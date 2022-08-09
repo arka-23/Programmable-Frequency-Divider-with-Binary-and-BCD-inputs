@@ -39,6 +39,24 @@ Note:
 
 # Verilog Implementation
 
+Schematic for binary inputs:
+
+![WhatsApp Image 2022-08-09 at 10 52 04 AM](https://user-images.githubusercontent.com/70422874/183571529-3ac209f7-faf1-4ccc-868d-6e08b34160cb.jpeg)
+
+![WhatsApp Image 2022-08-09 at 10 53 46 AM](https://user-images.githubusercontent.com/70422874/183571870-8498ca9a-861a-4a3a-9f08-2bef46b505bb.jpeg)
+
+![WhatsApp Image 2022-08-09 at 10 54 26 AM](https://user-images.githubusercontent.com/70422874/183572099-35505b42-382c-41dc-a3f0-277bc1f3e1a3.jpeg)
+
+![WhatsApp Image 2022-08-09 at 10 55 41 AM](https://user-images.githubusercontent.com/70422874/183572109-175d28be-7427-4aa9-b4c6-574fa2a311ef.jpeg)
+
+![WhatsApp Image 2022-08-09 at 10 55 58 AM](https://user-images.githubusercontent.com/70422874/183572129-e085b389-b2ea-4a12-8e48-7cb23d6147d4.jpeg)
+
+
+Schematic for BCD inputs:
+
+
+
+
 Output for binary inputs:
 
 ![image](https://user-images.githubusercontent.com/70422874/182293281-85aabc90-bb9d-4641-b312-356416b8eeb3.png)
