@@ -23,7 +23,7 @@ HDL, and the circuit implemented on a Nexus 4 - Arctix 7 FPGA board to verify re
 
 # Multisim Implementation
 
-Multisim Circuit (<50 % duty cycle)
+Multisim Circuit 
 
 Binary inputs:
 
