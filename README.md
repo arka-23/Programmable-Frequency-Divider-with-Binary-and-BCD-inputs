@@ -39,13 +39,11 @@ Note:
 
 # Verilog Implementation
 
-Schematic for binary inputs:
-
 Main Design -
 
 ![WhatsApp Image 2022-08-09 at 10 52 04 AM](https://user-images.githubusercontent.com/70422874/183571529-3ac209f7-faf1-4ccc-868d-6e08b34160cb.jpeg)
 
-Various internal modules - 
+Schematic for binary inputs:
 
 - 8 bit programmable binary down counter (cascaded structure)
 
@@ -53,28 +51,12 @@ Various internal modules -
 
 - MC 4316_new design 
 
+
 ![WhatsApp Image 2022-08-09 at 11 15 18 AM](https://user-images.githubusercontent.com/70422874/183574604-49aa13e0-4a2c-44de-9c53-06d52000238c.jpeg)
 
 ![WhatsApp Image 2022-08-09 at 11 15 38 AM](https://user-images.githubusercontent.com/70422874/183574624-09a2c517-7391-4392-a03c-3725187b03de.jpeg)
 
-
 Schematic for BCD inputs:
-
-Main Design -
-
-![WhatsApp Image 2022-08-09 at 10 52 04 AM](https://user-images.githubusercontent.com/70422874/183571529-3ac209f7-faf1-4ccc-868d-6e08b34160cb.jpeg)
-
-Various internal modules - 
-
-- 7 segment Display
-
-![WhatsApp Image 2022-08-09 at 10 53 46 AM](https://user-images.githubusercontent.com/70422874/183571870-8498ca9a-861a-4a3a-9f08-2bef46b505bb.jpeg)
-
-- Frequency divider output circuit
-
-![WhatsApp Image 2022-08-09 at 11 11 44 AM](https://user-images.githubusercontent.com/70422874/183573937-7756119a-b7b3-483c-b7e3-85be46dd376a.jpeg)
-
-![WhatsApp Image 2022-08-09 at 10 54 26 AM](https://user-images.githubusercontent.com/70422874/183572099-35505b42-382c-41dc-a3f0-277bc1f3e1a3.jpeg)
 
 - 8 bit programmable decade down counter (cascaded structure)
 
@@ -85,8 +67,17 @@ Various internal modules -
 ![WhatsApp Image 2022-08-09 at 10 55 58 AM](https://user-images.githubusercontent.com/70422874/183572129-e085b389-b2ea-4a12-8e48-7cb23d6147d4.jpeg)
 
 
+Various common internal modules -  
 
+- 7 segment Display
 
+![WhatsApp Image 2022-08-09 at 10 53 46 AM](https://user-images.githubusercontent.com/70422874/183571870-8498ca9a-861a-4a3a-9f08-2bef46b505bb.jpeg)
+
+- Frequency divider output circuit
+
+![WhatsApp Image 2022-08-09 at 11 11 44 AM](https://user-images.githubusercontent.com/70422874/183573937-7756119a-b7b3-483c-b7e3-85be46dd376a.jpeg)
+
+![WhatsApp Image 2022-08-09 at 10 54 26 AM](https://user-images.githubusercontent.com/70422874/183572099-35505b42-382c-41dc-a3f0-277bc1f3e1a3.jpeg)
 
 
 Output for binary inputs:
