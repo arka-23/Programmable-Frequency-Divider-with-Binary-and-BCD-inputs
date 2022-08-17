@@ -37,10 +37,14 @@ BCD inputs:
 
 Note: 
 
+The programmable part of the counter with the control signals is designed as follows:
+
 ![image](https://user-images.githubusercontent.com/70422874/185206977-d7d26dbe-4562-43f0-8972-bd9030f405ef.png)
 
 From the table:
 SET = ~(~PE(fb+gate).inp.MR), where SET is active low signal.
+
+
 
 
 # Verilog Implementation
